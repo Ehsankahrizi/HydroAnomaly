@@ -6,8 +6,15 @@
 
 A Python package for water bodies anomaly detection. It retrieves **USGS water data** and **Sentinel-2 bands** to use in ML models for checking the quality of the data collected by USGS gages.
 
+<div align="center">
+
 [![PyPI version](https://badge.fury.io/py/hydroanomaly.svg)](https://badge.fury.io/py/hydroanomaly)
 [![Downloads](https://pepy.tech/badge/hydroanomaly)](https://pepy.tech/project/hydroanomaly)
+[![Python](https://img.shields.io/badge/Python-3.6+-blue.svg)](https://python.org)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/Ehsankahrizi/HydroAnomaly.svg)](https://github.com/Ehsankahrizi/HydroAnomaly/stargazers)
+
+</div>
 
 ## Installation
 Python script:
