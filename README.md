@@ -1,4 +1,7 @@
-![Package Logo](logo.png) 
+<div align="center">
+  <img src="logo.png" alt="HydroAnomaly Logo" width="200"/>
+</div>
+
 # HydroAnomaly
 
 A Python package for water bodies anomaly detection. It retrieves **USGS water data** and **Sentinel-2 bands** to use in ML models for checking the quality of the data collected by USGS gages.
