@@ -33,9 +33,9 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/hydroanomaly"
-"Bug Reports" = "https://github.com/yourusername/hydroanomaly/issues"
-"Source" = "https://github.com/yourusername/hydroanomaly"
+Homepage = "https://github.com/Ehsankahrizi/HydroAnomaly"
+"Bug Reports" = "https://github.com/Ehsankahrizi/HydroAnomaly/issues"
+"Source" = "https://github.com/Ehsankahrizi/HydroAnomaly"
 
 [project.optional-dependencies]
 dev = [
