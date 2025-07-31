@@ -8,7 +8,7 @@ A Python package for water bodies anomaly detection. It retrieves **USGS water d
 
 <div align="center">
 
-[![PyPI version](https://badge.fury.io/py/hydroanomaly.svg)](https://badge.fury.io/py/hydroanomaly)
+[![PyPI version](https://img.shields.io/pypi/v/hydroanomaly.svg)](https://pypi.org/project/hydroanomaly/)
 [![Downloads](https://pepy.tech/badge/hydroanomaly)](https://pepy.tech/project/hydroanomaly)
 [![Python](https://img.shields.io/badge/Python-3.6+-blue.svg)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
