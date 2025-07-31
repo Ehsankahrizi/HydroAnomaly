@@ -50,7 +50,7 @@ end_date = "2024-12-30"
 # ------------------------
 # Data Extraction from USGS
 # ------------------------
-USGSdata, (lat, lon) = get_turbidity(site_number, start_date, end_date)
+USGSdata, (lat, lon) = hydroanomaly.get_turbidity(site_number, start_date, end_date)
 print("=" * 70)
 print("Latitude:", lat)
 print("Longitude:", lon)

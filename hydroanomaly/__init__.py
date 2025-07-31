@@ -10,7 +10,7 @@ A simple Python package with just 3 modules:
 That's it - nothing else!
 """
 
-__version__ = "1.2.7"
+__version__ = "1.2.9"
 __author__ = "Ehsan Kahrizi (Ehsan.kahrizi@usu.edu)"
 
 # Import the 3 simple modules
